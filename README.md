@@ -1,5 +1,6 @@
 Integrated Textile Waste Management and Upcycling System
 Sustainable Saree Inventory and Style Matching Platform
+
 📌 Project Overview
 
 The Integrated Textile Waste Management and Upcycling System is a web-based platform designed to reduce textile waste by enabling the collection, renewal, upcycling, and resale of sarees. The system supports sustainability by transforming unused or old sarees into renewed products while empowering sellers, customers, and administrators through a digital inventory and management solution.
