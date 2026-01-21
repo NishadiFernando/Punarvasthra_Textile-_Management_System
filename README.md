@@ -1,5 +1,5 @@
-Integrated Textile Waste Management and Upcycling System
-Sustainable Saree Inventory and Style Matching Platform
+##Integrated Textile Waste Management and Upcycling System
+##Sustainable Saree Inventory and Style Matching Platform
 
 📌 Project Overview
 
