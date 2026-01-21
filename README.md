@@ -56,9 +56,3 @@ This platform also includes a **Sustainable Saree Inventory and Style Matching f
 - Supports local artisans and tailors  
 - Encourages eco-conscious consumer behavior  
 
----
-
-## 🚀 Installation & Setup
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-repo-name.git
